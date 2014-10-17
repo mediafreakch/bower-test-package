@@ -1,13 +1,13 @@
 {
   "name": "testPackage",
-  "version": "0.0.2",
+  "version": "0.0.3",
   "authors": [
     "mediafreakch <github@mediafreak.ch>"
   ],
   "description": "testing bower git workflow",
   "main": "index.html",
   "license": "MIT",
-  "private": true,
+  "private": false,
   "ignore": [
     "**/.*",
     "node_modules",
